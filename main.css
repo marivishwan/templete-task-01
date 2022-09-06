@@ -5,7 +5,9 @@
 
 .container{
     width: 1130px;
-    margin: auto;
+    margin: auto;    
+    position: relative;
+    top: 300;
 }
 
 .header-wrapper{
